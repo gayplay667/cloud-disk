@@ -1,4 +1,4 @@
 {
   "serverPort": 5000,
-  "dbUrl": ""
+  "dbUrl": "mongodb+srv://cloud-disk:cloud-disk@cluster-cloud-disk.ynksgoc.mongodb.net/?retryWrites=true&w=majority"
 }
